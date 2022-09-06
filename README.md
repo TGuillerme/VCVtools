@@ -27,11 +27,12 @@ library(devtools)
 install_github("TGuillerme/VCVtools")
 library(VCVtools)
 ```
-<!-- 
+
 ## Vignettes and manuals
 
-Vignettes are available here
- -->
+A draft vignette ise available [here](https://raw.rawgit.net/TGuillerme/VCVtools/main/inst/playing_with_ellipses.html)
+
+
 
 <!-- ## Latest major patch notes
 * 2022/01/24 v1.0 
