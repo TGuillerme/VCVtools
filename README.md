@@ -30,7 +30,7 @@ library(VCVtools)
 
 ## Vignettes and manuals
 
-A draft vignette ise available [here](https://raw.rawgit.net/TGuillerme/VCVtools/main/inst/playing_with_ellipses.html)
+A draft vignette is available [here](https://raw.rawgit.net/TGuillerme/VCVtools/main/inst/playing_with_ellipses.html)
 
 
 
